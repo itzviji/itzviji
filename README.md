@@ -5,7 +5,7 @@ Hi 👋 I'm Vijayasankari V
 <h3 align="center">
 Programmer Analyst @ Cognizant • Full Stack Developer • AI Researcher
 </h3>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C896&height=180&section=header"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=%24+whoami;Programmer+Analyst+%40+Cognizant;%24+stack+--list;Java+%7C+Spring+Boot+%7C+Angular+%7C+AWS;%24+project+--active;RevCycleX+%7C+Plant+Disease+Detection+AI;%24+status;Building.+Learning.+Shipping." alt="Typing SVG" />
 
 <br/>
