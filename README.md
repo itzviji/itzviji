@@ -1,7 +1,11 @@
-<div align="center">
+<h1 align="center">
+Hi 👋 I'm Vijayasankari V
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00C896,100:0D1117&height=200&section=header&text=Vijayasankari%20V&fontSize=42&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20AI%20Researcher%20%7C%20AWS%20Cloud%20Learner&descAlignY=55&descSize=18" width="100%"/>
-
+<h3 align="center">
+Programmer Analyst @ Cognizant • Full Stack Developer • AI Researcher
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C896&height=180&section=header"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=%24+whoami;Programmer+Analyst+%40+Cognizant;%24+stack+--list;Java+%7C+Spring+Boot+%7C+Angular+%7C+AWS;%24+project+--active;RevCycleX+%7C+Plant+Disease+Detection+AI;%24+status;Building.+Learning.+Shipping." alt="Typing SVG" />
 
 <br/>
