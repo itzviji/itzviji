@@ -1,18 +1,187 @@
-# 💫 About Me:
-<br>🚀 I'm currently working on:<br>• Building enterprise applications with Java, Spring Boot & Angular<br>• Strengthening my AWS Cloud skills<br>• Developing impactful full-stack projects<br>👯 I'm looking to collaborate on<br>👯 I'm looking to collaborate on:<br>• Open Source Java Projects<br>• AI/ML Applications<br>• Cloud & Full Stack Development<br>🤝 I'm looking for help with<br>🤝 I'm looking for help with:<br>• System Design<br>• Scalable Backend Architecture<br>• Open Source Contributions<br>🌱 I'm currently learning<br>🌱 I'm currently learning:<br>• AWS Cloud<br>• Spring Boot Microservices<br>• Angular<br>• Docker & Kubernetes<br>💬 Ask me about<br><br>• Java<br>• Spring Boot<br>• Full Stack Development<br>• AI & Machine Learning<br>• Git & GitHub<br><br>⚡ Fun fact:<br>I enjoy turning complex ideas into simple software solutions<br>Every new technology I learn becomes my next side project.
+<h1 align="center">
+Hi 👋, I'm Shreya
+</h1>
 
+<h3 align="center">
+Programmer Analyst @ Cognizant • Full Stack Developer • AI Researcher • AWS Cloud Learner
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vijayasankari-v-71ab59278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankariv0607@gmail.com) 
+<p align="center">
+Passionate about building scalable software, intelligent AI applications, and cloud-native solutions that solve real-world problems.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itzviji&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=itzviji&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itzviji&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=23&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Building.+Always+Learning."/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=itzviji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+
+💼 Programmer Analyst at **Cognizant**
+
+🎓 IEEE Conference Author
+
+💡 Passionate about building software that creates real-world impact
+
+🌱 Currently expanding my expertise in
+
+- AWS Cloud
+- Spring Boot
+- Angular
+- Microservices
+- System Design
+
+❤️ I enjoy solving complex problems through clean architecture and scalable software solutions.
+
+---
+
+# 🚀 What I'm Working On
+
+🔹 Enterprise Java Applications
+
+🔹 Spring Boot REST APIs
+
+🔹 Full Stack Projects using Angular
+
+🔹 AWS Cloud Practitioner Certification
+
+🔹 Building production-ready software
+
+---
+
+# 🤝 Open to Collaborate On
+
+✔ Java & Spring Boot Projects
+
+✔ Open Source Contributions
+
+✔ AI & Machine Learning
+
+✔ Cloud Native Applications
+
+✔ Full Stack Development
+
+---
+
+# 🏆 Highlights
+
+🏅 Programmer Analyst @ Cognizant
+
+📖 IEEE Conference Publication
+
+🤖 Developed an AI-based Plant Disease Detection System (98.3% Accuracy)
+
+☁️ AWS Cloud Practitioner Learner
+
+🚀 Passionate about Enterprise Software Development
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • TypeScript • SQL
+
+### Backend
+
+Spring Boot • Hibernate • REST APIs • Maven
+
+### Frontend
+
+Angular • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+
+### Database
+
+MySQL • MongoDB
+
+### Cloud
+
+AWS
+
+### Tools
+
+Git • GitHub • Postman • VS Code • IntelliJ IDEA • Figma
+
+---
+
+# 📌 Featured Projects
+
+🌿 **Plant Disease Detection**
+
+AI-powered disease classification using ResNet50 and Ensemble Learning.
+
+🏥 **RevCycleX**
+
+Healthcare Revenue Cycle Management System built with Spring Boot & Angular.
+
+☁️ **AWS Learning Repository**
+
+Hands-on cloud projects and architecture notes.
+
+💻 **Java DSA**
+
+Coding interview preparation and problem solving.
+
+🌐 **Portfolio Website**
+
+Responsive portfolio showcasing projects and skills.
+
+🥽 **AR/VR Knee Surgery Simulation**
+
+Medical simulation project developed using Unity and Blender.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzviji&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzviji&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzviji&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Shreya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzviji&theme=github-dark)](https://github.com/itzviji)
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sankariv0607@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> *"Every project is an opportunity to learn, improve, and build something meaningful."*
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=itzviji&style=flat-square&color=blue)
+
+</p>
