@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Shreya
+Hi 👋, I'm Vijayasankari
 </h1>
 
 <h3 align="center">
@@ -68,8 +68,6 @@ Passionate about building scalable software, intelligent AI applications, and cl
 
 🏅 Programmer Analyst @ Cognizant
 
-📖 IEEE Conference Publication
-
 🤖 Developed an AI-based Plant Disease Detection System (98.3% Accuracy)
 
 ☁️ AWS Cloud Practitioner Learner
@@ -128,9 +126,9 @@ Coding interview preparation and problem solving.
 
 Responsive portfolio showcasing projects and skills.
 
-🥽 **AR/VR Knee Surgery Simulation**
+🥽 **Agriverse A global farming experience simulation**
 
-Medical simulation project developed using Unity and Blender.
+Agriculture Practices simulation project developed using Unity and Blender.
 
 ---
 
